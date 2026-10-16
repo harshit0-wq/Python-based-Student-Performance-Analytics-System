@@ -1,0 +1,52 @@
+
+STUDENT PERFORMANCE ANALYTICS SYSTEM
+========================================================================
+Records loaded: 20
+Columns: Student_ID, Name, Department, Python, NumPy, Pandas, AI_Basics, Attendance
+
+STUDENT RESULTS
+ Student_ID           Name  Total  Average Grade Status
+       1001    Aarav Kumar    354    88.50     A   Pass
+       1002   Ananya Singh    368    92.00    A+   Pass
+       1003    Rohan Verma    310    77.50     B   Pass
+       1004   Priya Sharma    371    92.75    A+   Pass
+       1005     Aditya Raj    275    68.75     C   Pass
+       1006    Sneha Gupta    338    84.50     A   Pass
+       1007    Vivek Kumar    238    59.50     D   Pass
+       1008     Ishita Roy    354    88.50     A   Pass
+       1009    Rahul Yadav    184    46.00     E   Fail
+       1010     Neha Patel    317    79.25     B   Pass
+       1011    Kunal Singh    159    39.75     F   Fail
+       1012   Pooja Kumari    369    92.25    A+   Pass
+       1013  Satyam Mishra    279    69.75     C   Pass
+       1014     Muskan Ali    327    81.75     A   Pass
+       1015   Abhishek Rai    241    60.25     C   Pass
+       1016     Riya Sinha    347    86.75     A   Pass
+       1017  Manish Tiwari    204    51.00     D   Pass
+       1018     Kavya Jain    386    96.50    A+   Pass
+       1019 Deepak Chauhan    295    73.75     B   Pass
+       1020    Nandini Das    262    65.50     C   Pass
+
+SUBJECT-WISE PERFORMANCE
+  Subject  Highest  Lowest  Average
+   Python       97      34    73.45
+    NumPy       96      45    76.05
+   Pandas       95      39    74.65
+AI_Basics       98      41    74.75
+
+CLASS SUMMARY
+Highest average : Kavya Jain (96.50)
+Lowest average  : Kunal Singh (39.75)
+Overall average : 74.72
+Passed / Failed : 18 / 2
+Best subject    : NumPy (76.05)
+
+TOP 5 PERFORMERS
+ Student_ID         Name  Average Grade
+       1018   Kavya Jain    96.50    A+
+       1004 Priya Sharma    92.75    A+
+       1012 Pooja Kumari    92.25    A+
+       1002 Ananya Singh    92.00    A+
+       1001  Aarav Kumar    88.50     A
+
+Detailed analysis saved to: analysis_results.csv
